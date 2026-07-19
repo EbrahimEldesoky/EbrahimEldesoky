@@ -1,4 +1,4 @@
-## Open Source Contributions <a href="https://www.paypal.me/Ebrahim1178" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+## Open Source Contributions 
 
 [![Qiskit PR #16254](https://img.shields.io/badge/Qiskit-PR%20%2316254-blue?style=for-the-badge&logo=qiskit)](https://github.com/Qiskit/qiskit/pull/16254)
 [![Tokio PR #8218](https://img.shields.io/badge/Tokio-PR%20%238218-blue?style=for-the-badge&logo=rust)](https://github.com/tokio-rs/tokio/pull/8218)
